@@ -2,4 +2,6 @@ lo:traf/lo/
 ens512:/tmp/ens512
 enp3s0:/tmp/enp3s0
 enp0s19f1u2:traf/usb/
+ens224:/data/ens224
+
 
